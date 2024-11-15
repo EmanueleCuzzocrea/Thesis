@@ -3,7 +3,7 @@
 
 ## Block scheme
 
-![BlockScheme_](https://github.com/user-attachments/assets/e19e7a63-271b-4e8d-b911-e50196bd1226)
+![BlockScheme_](https://github.com/user-attachments/assets/4fb94be8-2fb5-454d-958f-cf635bed3936)
 
 ## Trot gait with stick
 
