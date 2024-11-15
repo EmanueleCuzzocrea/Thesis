@@ -2,7 +2,7 @@
 
 ## Block scheme
 
-![BlockScheme](https://github.com/user-attachments/assets/41e5f1e3-db04-4765-8fbd-0347178c5820)
+![BlockScheme_](https://github.com/user-attachments/assets/e19e7a63-271b-4e8d-b911-e50196bd1226)
 
 [BlockScheme.pdf](https://github.com/user-attachments/files/17737047/BlockScheme.pdf)
 
