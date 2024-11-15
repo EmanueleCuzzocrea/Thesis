@@ -1,10 +1,9 @@
 # IsaacLab
 
+
 ## Block scheme
 
 ![BlockScheme_](https://github.com/user-attachments/assets/e19e7a63-271b-4e8d-b911-e50196bd1226)
-
-[BlockScheme.pdf](https://github.com/user-attachments/files/17737047/BlockScheme.pdf)
 
 ## Trot gait with stick
 
