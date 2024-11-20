@@ -13,13 +13,13 @@ https://github.com/user-attachments/assets/3b801dd3-6328-49e7-81cd-ec39fd613a05
 
 https://github.com/user-attachments/assets/cdb89146-04a5-4f66-8d7e-1eb3c507d6d4
 
-![2](https://github.com/user-attachments/assets/a7fd5c3e-6637-4703-a4df-317eff092549)
+![2](https://github.com/user-attachments/assets/dfb21a77-8f4a-4ef2-8d13-a164642458d7)
 
 ## Best result
 
-![3](https://github.com/user-attachments/assets/891a6d7f-b55d-4a14-b39b-71e7c11e15a3)
+![3](https://github.com/user-attachments/assets/07b17c32-36f6-465a-a00f-fdff7dd80b2d)
 
 ## Normal result
 
-![_](https://github.com/user-attachments/assets/e6bb2053-87e6-4064-b8cf-e174de011313)
+![_](https://github.com/user-attachments/assets/84768222-8cf2-4f7c-910f-0cd00f21bb48)
 
