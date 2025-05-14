@@ -2,7 +2,7 @@
 
 ## Locomotion (no gait forced)
 
-https://github.com/user-attachments/assets/bdcfa634-05f7-4c89-8936-c8f11643fddb
+https://github.com/user-attachments/assets/3e8437a9-397f-491b-9d93-3a840bdb846e
 
 ## Trot gait forced with missed observation
 
