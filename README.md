@@ -1,6 +1,6 @@
 # Experiments
 
-## Locomotion (no gait forced)
+## Simple locomotion (no gait forced)
 
 https://github.com/user-attachments/assets/3e8437a9-397f-491b-9d93-3a840bdb846e
 
